@@ -29,5 +29,5 @@ When something exciting happens during a game, there is a rise in the commentato
 ▶ Generate the final video highlights<br><br>
 
 ### 📷 Video Footage for the Project
-The [video footage](https://drive.google.com/file/d/18uSa-F8JMJHuE53FlKSuaQs1R2LWVvqg/view?usp=sharing) we are using is a 23 minutes clip of the cricket match between India and West Indies.
+The [video footage](https://drive.google.com/file/d/18uSa-F8JMJHuE53FlKSuaQs1R2LWVvqg/view?usp=sharing) we are using is a 23 minutes clip of the cricket match between India and West Indies.<br>
 In **Step 2** we are extracting the audio. Find the extracted `.wav` audio file [here](https://drive.google.com/file/d/1820vX4kGLHhaKxVCUysPtmFUd8QCR7N7/view?usp=sharing)
