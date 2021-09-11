@@ -27,3 +27,7 @@ When something exciting happens during a game, there is a rise in the commentato
 ▶ Classify every chunk as excitement or not (based on a threshold value)<br><br>
 ▶ Merge all the excitement-clips to form the video highlights<br><br>
 ▶ Generate the final video highlights<br><br>
+
+### 📷 Video Footage for the Project
+The [video footage](https://drive.google.com/file/d/18uSa-F8JMJHuE53FlKSuaQs1R2LWVvqg/view?usp=sharing) we are using is a 23 minutes clip of the cricket match between India and West Indies.
+
