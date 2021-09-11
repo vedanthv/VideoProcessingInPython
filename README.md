@@ -32,5 +32,6 @@ When something exciting happens during a game, there is a rise in the commentato
 The [video footage](https://drive.google.com/file/d/18uSa-F8JMJHuE53FlKSuaQs1R2LWVvqg/view?usp=sharing) we are using is a 23 minutes clip of the cricket match between India and West Indies.<br>
 In **Step 2** we are extracting the audio. Find the extracted `.wav` audio file [here](https://drive.google.com/file/d/1820vX4kGLHhaKxVCUysPtmFUd8QCR7N7/view?usp=sharing)
 
-### Codebase!
+### 👩‍💻 Codebase!
 - To extract the audio file, here is the [code](https://github.com/vedanthv/VideoProcessingInPython/blob/main/HighlightsGeneration/AudioExtract.py)
+- To divide the audio into chunks, classify as excitement and join all chunks here is the [code](https://github.com/vedanthv/VideoProcessingInPython/blob/main/HighlightsGeneration/AudioAnalysis.py) 
