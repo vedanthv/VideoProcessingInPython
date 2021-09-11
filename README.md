@@ -1,5 +1,5 @@
 # 🚀Video Processing In Python
-📍 In this project my team tackles some real world problems involving video processing that can be solved with Python and Data Science.
+In this project my team tackles some real world problems involving video processing that can be solved with Python and Data Science.
 
 # 📍 Team Members
 - Vedanth V Baliga
@@ -18,3 +18,12 @@ We are going to use pure Python and some useful libraries to generate **high qua
 ### ⚡ Our Solution
 We will be using speech analysis for this task. Machine Learning and Deep Learning is also a solution but it will be added on in later iterations.
 When something exciting happens during a game, there is a rise in the commentator’s voice. Let’s take cricket for example. Whenever a batsman hits a boundary or a bowler takes a wicket, there is a rise in the commentator’s voice. Both the audience and the commentators have high pitch during that event. We can use these changes in audio to capture interesting moments from a video.
+
+### 💡 Approach
+▶ Input the video file <br><br>
+▶ Extract the audio<br><br>
+▶ Break the audio into chunks<br><br>
+▶ Compute short-time energy of every chunk<br><br>
+▶ Classify every chunk as excitement or not (based on a threshold value)<br><br>
+▶ Merge all the excitement-clips to form the video highlights<br><br>
+▶ Generate the final video highlights<br><br>
