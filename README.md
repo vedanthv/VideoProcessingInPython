@@ -41,18 +41,18 @@ This [match](https://drive.google.com/file/d/18uSa-F8JMJHuE53FlKSuaQs1R2LWVvqg/v
 
 
 ## 📹YouTube Video Summarizer and Audio Generation
-### Project Context
+### ❓ Project Context
 
 Enormous number of video recordings are being created and shared on the Internet through out the day. It has become really difficult to spend time in watching such videos which may have a longer duration than expected and sometimes our efforts may become futile if we couldn't find relevant information out of it. Summarizing transcripts of such videos automatically allows us to quickly look out for the important patterns in the video and helps us to save time and efforts to go through the whole content of the video.
 
-
-This project will give us an opportunity to have hands on experience with state of the art NLP technique for abstractive text summarization.
-### Implementation Details:
-#### 1.Getting transcript for a given video
+This project will give us an opportunity to have hands on experience with **state of the art NLP technique for abstractive text summarization**.
+### 💡 Implementation Details:
+#### ▶ Getting transcript for a given video
  We are going to utilize a python library youtube-transcript-api , which allows us to get the transcripts/subtitles for a given YouTube video. It also works for automatically generated subtitles, supports translating subtitles and it does not require a headless browser, like other selenium based solutions do!
-#### 2.Performing text summarization
+#### ▶ Performing text summarization
 Text summarization is the task of shortening long pieces of text into a concise summary that preserves key information content and overall meaning.
 
+### 💡 Solution and Stack Overview
 In this project, we will use HuggingFace's transformers library in Python to perform abstractive text summarization on the transcript obtained previously.
 The reason why we chose HuggingFace's Transformers as it provides us with thousands of pre-trained models not just for text summarization, but for a wide variety of NLP tasks, such as text classification, question answering, machine translation, text generation, chatbot, and more.
 
