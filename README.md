@@ -54,5 +54,6 @@ This project will give us an opportunity to have hands on experience with state 
 Text summarization is the task of shortening long pieces of text into a concise summary that preserves key information content and overall meaning.
 
 In this project, we will use HuggingFace's transformers library in Python to perform abstractive text summarization on the transcript obtained previously.
+The reason why we chose HuggingFace's Transformers as it provides us with thousands of pre-trained models not just for text summarization, but for a wide variety of NLP tasks, such as text classification, question answering, machine translation, text generation, chatbot, and more.
 
 
