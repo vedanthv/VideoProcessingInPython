@@ -27,7 +27,7 @@ When something exciting happens during a game, there is a rise in the commentato
 ▶ Classify every chunk as excitement clip or not based on the sampling rate and threshold value<br><br>
 ▶ Merge all the clips to form the video highlights<br><br>
 ▶ Generate the final video highlights<br><br>
-
+### ✅ Real Life Applications
 ### 📷 Video Footage for the Project
 The [video footage](https://drive.google.com/file/d/18uSa-F8JMJHuE53FlKSuaQs1R2LWVvqg/view?usp=sharing) we are using is a 23 minutes clip of the cricket match between India and West Indies.<br>
 In **Step 2** we are extracting the audio. Find the extracted `.wav` audio file [here](https://drive.google.com/file/d/1820vX4kGLHhaKxVCUysPtmFUd8QCR7N7/view?usp=sharing)
@@ -51,7 +51,7 @@ This project will give us an opportunity to have hands on experience with **stat
  We are going to utilize a python library youtube-transcript-api , which allows us to get the transcripts/subtitles for a given YouTube video. It also works for automatically generated subtitles, supports translating subtitles and it does not require a headless browser, like other selenium based solutions do!
 #### ▶ Performing text summarization
 Text summarization is the task of shortening long pieces of text into a concise summary that preserves key information content and overall meaning.
-
+### ✅ Real Life Applications
 ### 💡 Solution and Stack Overview
 In this project, we will use HuggingFace's transformers library in Python to perform abstractive text summarization on the transcript obtained previously.
 The reason why we chose HuggingFace's Transformers as it provides us with thousands of pre-trained models not just for text summarization, but for a wide variety of NLP tasks, such as text classification, question answering, machine translation, text generation, chatbot, and more.
