@@ -51,6 +51,8 @@ This project will give us an opportunity to have hands on experience with **stat
  We are going to utilize a python library youtube-transcript-api , which allows us to get the transcripts/subtitles for a given YouTube video. It also works for automatically generated subtitles, supports translating subtitles and it does not require a headless browser, like other selenium based solutions do!
 #### ▶ Performing text summarization
 Text summarization is the task of shortening long pieces of text into a concise summary that preserves key information content and overall meaning.
+##### ▶ Converting the summarized text to audio using Google Speech API
+
 ### ✅ Real Life Applications
 ### 💡 Solution and Stack Overview
 In this project, we will use HuggingFace's transformers library in Python to perform abstractive text summarization on the transcript obtained previously.
