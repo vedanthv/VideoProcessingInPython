@@ -62,6 +62,8 @@ For implmentation using HuggingFace T5 Model, here is the [code](https://github.
 For implementaiton of solution using HuggingFace summarizer pipeline, here is the [code](https://github.com/vedanthv/VideoProcessingInPython/blob/main/Youtube_Transcript_Summarizer/YouTubeVideoTranscriptSummarization.ipynb)<br>
 In above Google Colab, you can also find the usage of Google Speech API to convert the summarized text to audio format.
 
+### 🏆 Demo
+
 ### ✅ Real Life Applications
 
 ## 📹Automatic Video Editing with Python
