@@ -53,10 +53,16 @@ This project will give us an opportunity to have hands on experience with **stat
 Text summarization is the task of shortening long pieces of text into a concise summary that preserves key information content and overall meaning.
 #### ▶ Converting the summarized text to audio using Google Speech API
 
-### ✅ Real Life Applications
 ### 💡 Solution and Stack Overview
 In this project, we will use HuggingFace's transformers library in Python to perform abstractive text summarization on the transcript obtained previously.
 The reason why we chose HuggingFace's Transformers as it provides us with thousands of pre-trained models not just for text summarization, but for a wide variety of NLP tasks, such as text classification, question answering, machine translation, text generation, chatbot, and more.
+
+### 👩‍💻 Codebase!
+For implmentation using HuggingFace T5 Model, here is the [code](https://github.com/vedanthv/VideoProcessingInPython/blob/main/Youtube_Transcript_Summarizer/app.py)<br>
+For implementaiton of solution using HuggingFace summarizer pipeline, here is the [code](https://github.com/vedanthv/VideoProcessingInPython/blob/main/Youtube_Transcript_Summarizer/YouTubeVideoTranscriptSummarization.ipynb)<br>
+In above Google Colab, you can also find the usage of Google Speech API to convert the summarized text to audio format.
+
+### ✅ Real Life Applications
 
 ## 📹Automatic Video Editing with Python
 ### ❓ Project Context
