@@ -52,7 +52,7 @@ This project will give us an opportunity to have hands on experience with **stat
 #### ▶ Performing text summarization
 Text summarization is the task of shortening long pieces of text into a concise summary that preserves key information content and overall meaning.
 #### ▶ Converting the summarized text to audio using Google Speech API
-
+Text to speech is a process to convert any text into voice.Here we have used Google-text-to-speech library popularly known as gTTS library to convert text file to .mp3 file.Some of it's features include Customizable speech-specific sentence tokenizer that allows unlimited lengths of text to be read, all while keeping proper intonation, abbreviations, decimals and more.
 ### 💡 Solution and Stack Overview
 In this project, we will use HuggingFace's transformers library in Python to perform abstractive text summarization on the transcript obtained previously.
 The reason why we chose HuggingFace's Transformers as it provides us with thousands of pre-trained models not just for text summarization, but for a wide variety of NLP tasks, such as text classification, question answering, machine translation, text generation, chatbot, and more.
