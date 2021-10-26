@@ -23,7 +23,7 @@ When something exciting happens during a game, there is a rise in the commentato
 ▶ Input the video file <br><br>
 ▶ Extract the audio<br><br>
 ▶ Break the audio into chunks that can be analysed without excess compute power<br><br>
-▶ Compute energy of every chunk of every chunk<br><br>
+▶ Compute energy of every chunk(loudness) of every chunk<br><br>
 ▶ Classify every chunk as excitement clip or not based on the sampling rate and threshold value<br><br>
 ▶ Merge all the clips to form the video highlights<br><br>
 ▶ Generate the final video highlights<br><br>
